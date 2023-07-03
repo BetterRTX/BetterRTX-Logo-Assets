@@ -20,3 +20,13 @@ until the black outline/halo is gone from the logo.
 
 Keep in mind these are for advanced editors and there are perfectly
 usable transparent clips provided! -Zappr
+
+# Notice for files in BetterRTX Animated Logos Folder:
+All animated logos provided here are 8 bpc + alpha channel. 
+We made them have completely transparent backgrounds so you can just DRAG & DROP them into your timeline. 
+These have been tested and will work in Adobe Premiere Pro & Davinci Resolve.
+It will drop in flawlessly without worrying about an opaque background!
+Remember these are .mov files. They will act like any other video footage onto your timeline and NOT an animation file.
+
+These files have been rendered as an Animation .mov Quicktime format. 
+You will not be able to playback on Windows Media Player but THEY WILL PLAYBACK PERFECTLY FINE and work in your timeline.
